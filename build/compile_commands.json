@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/arham/Tetris/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP  -std=gnu++17 -o CMakeFiles/tetris.dir/src/block.cpp.o -c /home/arham/Tetris/src/block.cpp",
+  "file": "/home/arham/Tetris/src/block.cpp",
+  "output": "CMakeFiles/tetris.dir/src/block.cpp.o"
+},
+{
+  "directory": "/home/arham/Tetris/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP  -std=gnu++17 -o CMakeFiles/tetris.dir/src/grid.cpp.o -c /home/arham/Tetris/src/grid.cpp",
+  "file": "/home/arham/Tetris/src/grid.cpp",
+  "output": "CMakeFiles/tetris.dir/src/grid.cpp.o"
+},
+{
+  "directory": "/home/arham/Tetris/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP  -std=gnu++17 -o CMakeFiles/tetris.dir/src/blocks.cpp.o -c /home/arham/Tetris/src/blocks.cpp",
+  "file": "/home/arham/Tetris/src/blocks.cpp",
+  "output": "CMakeFiles/tetris.dir/src/blocks.cpp.o"
+},
+{
+  "directory": "/home/arham/Tetris/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP  -std=gnu++17 -o CMakeFiles/tetris.dir/src/game.cpp.o -c /home/arham/Tetris/src/game.cpp",
+  "file": "/home/arham/Tetris/src/game.cpp",
+  "output": "CMakeFiles/tetris.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/arham/Tetris/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP  -std=gnu++17 -o CMakeFiles/tetris.dir/src/main.cpp.o -c /home/arham/Tetris/src/main.cpp",
+  "file": "/home/arham/Tetris/src/main.cpp",
+  "output": "CMakeFiles/tetris.dir/src/main.cpp.o"
+}
+]

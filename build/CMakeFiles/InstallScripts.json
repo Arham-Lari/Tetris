@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arham/Tetris/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
